@@ -9,14 +9,14 @@
   {
     "name": "BrowserSync",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "languages & frameworks",
     "isNew": false,
     "description": "This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=\"https://www.thoughtworks.com\">anchor links to documentation and referance material</a>."
   },
   {
     "name": "Browserify",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "platforms",
     "isNew": false,
     "description": "This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=\"https://www.thoughtworks.com\">anchor links to documentation and referance material</a>."
   },
@@ -30,7 +30,7 @@
   {
     "name": "Invision",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "techniques",
     "isNew": false,
     "description": "This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=\"https://www.thoughtworks.com\">anchor links to documentation and referance material</a>."
   },
